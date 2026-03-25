@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.athlon.ree",
-    "sha256_cert_fingerprints": ["E6:44:C2:FA:78:4A:2D:1E:5F:DC:D9:A8:A5:95:D6:C8:68:A6:7A:5F:8D:E3:1F:F4:55:16:A6:00:67:11:74:65"]
+    "sha256_cert_fingerprints": ["E6:44:C2:FA:78:4A:2D:1E:5F:DC:D9:A8:A5:95:D6:C8:68:A6:7A:5F:8D:E3:1F:F4:55:16:A6:00:67:11:74:65", "23:0A:87:7C:69:56:6B:42:CD:B3:D0:38:6A:AC:64:66:A0:65:CB:60:40:D6:E0:E7:41:43:B3:AD:A6:DC:A8:9C"]
   }
 }]

@@ -22,9 +22,9 @@ export default function InstallPage() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
           {/* Replace '#' with your actual App Store link */}
-          {/* <Link href="#" className="bg-blue-950 text-white px-8 py-3 rounded-full font-semibold hover:bg-blue-800 transition">
+          <Link href="#" className="bg-blue-950 text-white px-8 py-3 rounded-full font-semibold hover:bg-blue-800 transition">
             App Store
-          </Link> */}
+          </Link>
           {/* Replace '#' with your actual Play Store link */}
           <Link href="#" className="bg-lime-500 text-blue-950 px-8 py-3 rounded-full font-semibold hover:bg-lime-400 transition">
             Google Play

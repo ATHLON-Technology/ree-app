@@ -23,7 +23,7 @@ export async function GET(request) {
   if (!error) {
     // Success! Email confirmed. 
     // Redirect them to the Smart Redirect page to open the app.
-    return NextResponse.redirect(new URL('/open-app?target=login-callback', request.url));
+    return NextResponse.redirect(new URL('/verification-success', request.url));
   } else {
     // Verification failed (e.g., link expired)
     return NextResponse.redirect(new URL('/auth-error', request.url));
