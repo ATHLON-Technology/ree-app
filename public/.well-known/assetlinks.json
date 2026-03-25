@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.athlon.ree",
+    "sha256_cert_fingerprints": ["E6:44:C2:FA:78:4A:2D:1E:5F:DC:D9:A8:A5:95:D6:C8:68:A6:7A:5F:8D:E3:1F:F4:55:16:A6:00:67:11:74:65"]
+  }
+}]
